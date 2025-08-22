@@ -1,0 +1,16 @@
+.boton{
+    background-color: rgb(82, 82, 237);
+    transition: .5s;
+    color: aliceblue;
+    padding: 1rem 1.5rem;
+    border: none;
+    border-radius: .3rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;    
+}
+
+.boton:hover{
+    cursor: pointer;
+    background-color: rgb(19, 19, 152);
+    transition: .5s;
+}
